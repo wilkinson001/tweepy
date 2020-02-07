@@ -1,5 +1,11 @@
 Also see https://github.com/tweepy/tweepy/releases for changelogs.
 
+Unai Fork
+---------
+### Bug Fixes
+- Handle more exceptions in stream
+
+
 Version 3.8.0
 -------------
 ### New Features / Improvements
